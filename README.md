@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Portifolio programador desenvolvido em reactJs
+
+Primeiro projeto desenvolvido em react para fins de treinamento e criando um "curriculo" de programador para mim (Nicolas Elias)
+
+## Guia de inicialização:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
